@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rhys1xh and a dedicated .NET developer! ;)
-- 👀 I’m interested in ethical hacking (Windows Focused)! (Focus on Exploit and Malware development as well as the development of sophisticated security tools!)
-- 🌱 Important: All the software and source codes i provide on my github are for educational purposes only! I highly suggest to NOT run any of these applications on your systems but only in controlled environments! I am not responsible for any damage. Enjoy! :D
+- 👋 Hi, I’m @Rhys1xh and a dedicated C developer! ;)
+- 👀 I’m interested in high performance software and libary development and love optimizing every byte of my programs!
+- 🌱 Important: Everything i post is developed with performance and safety in mind. If you have any improvement tips please contact me and let me now, im eager to learn! Anyways, enjoy! :D
 - 📫 Discord: Rhys1xh
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love pizza!
+- ⚡ Fun fact: I love sushi!
 
