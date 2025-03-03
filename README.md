@@ -1,1 +1,1 @@
-I love assembly dawg
+Keep It Simple, Stupid
